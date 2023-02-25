@@ -17,3 +17,19 @@
 #resume:target{
     display: block;
 }
+
+#work{
+    display: none;
+}
+
+#work:target{
+    display: block;
+}
+
+#contact{
+    display: none;
+}
+
+#contact:target{
+    display: block;
+}
